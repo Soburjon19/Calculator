@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="#" target="_blank">Calculator</a>
+  <a href="https://soburjon-calculator.netlify.app/" target="_blank">Calculator</a>
 </h2>
 <div align="center">
   <img alt="Image" src="./image/calculator.jpg" />
